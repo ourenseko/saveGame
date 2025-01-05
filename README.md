@@ -13,7 +13,7 @@ Estadisticas:
 
 -Modo historia practicamente completado (la misión final "OP.55" se puede reptir ininitamente)
 
--Botón para resetear el arbol de habilidades 1 vez: Disponible (No es posible tener todas ni al 50%)
+-Botón para resetear el arbol de habilidades 1 vez: Disponible (No es posible tener todas ni al 50% o almenos daría muchisimo trabajo)
 
 -Coches premium comprados (faltan por desbloquear, dinero disponible de 1 millon de Edis) 
 
