@@ -4,6 +4,8 @@ Partidas guardadas
 
 CyberPunk-2077
 -----------------
+![screenshot](https://github.com/user-attachments/assets/5c17d445-c947-4c0b-aab0-7095fa60564c)
+
 
 Sustitulle en el Slot 3 si existe en la ruta de juego
 
