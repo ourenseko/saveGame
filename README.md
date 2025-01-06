@@ -1,6 +1,16 @@
 # saveGame
 Partidas guardadas
 
+GTA San Andreas
+-----------------
+Sustitulle en el Slot 8 si existe en la ruta de juego
+
+Ruta: 
+
+Estadisticas:
+
+-Modo historia completado
+
 
 CyberPunk-2077
 -----------------
@@ -13,7 +23,7 @@ Ruta: "%userprofile%\Saved Games\CD Projekt Red\Cyberpunk 2077"
 
 Estadisticas:
 
--Modo historia practicamente completado (la misión final "OP.55" se puede reptir infinitamente)
+-Modo historia completado, muchas secundarias sin completar. (la misión final "OP.55" se puede reptir infinitamente)
 
 -Botón para resetear el arbol de habilidades 1 vez: Disponible (No es posible tener todas ni al 50% o almenos daría muchisimo trabajo)
 
