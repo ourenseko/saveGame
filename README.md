@@ -3,6 +3,9 @@
 
 GTA_San_Andreas
 -----------------
+![image](https://github.com/user-attachments/assets/14844aef-b3c0-4d1e-8cc0-c3a719fd15a8)
+
+
 Sustitulle en el Slot 8 si existe en la ruta de juego con el archivo "GTASAsf8.b"
 
 Ruta: "gta_sa/data/"
