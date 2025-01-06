@@ -1,7 +1,7 @@
 # saveGame
 Partidas guardadas
 
-GTA San Andreas
+GTA_San_Andreas
 -----------------
 Sustitulle en el Slot 8 si existe en la ruta de juego
 
