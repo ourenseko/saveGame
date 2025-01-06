@@ -9,7 +9,10 @@ Ruta:
 
 Estadisticas:
 
--Modo historia completado
+-Modo historia completado sin trucos
+
+
+
 
 
 CyberPunk-2077
@@ -23,7 +26,7 @@ Ruta: "%userprofile%\Saved Games\CD Projekt Red\Cyberpunk 2077"
 
 Estadisticas:
 
--Modo historia completado, muchas secundarias sin completar. (la misión final "OP.55" se puede reptir infinitamente)
+-Modo historia completado sin trucos ni mods, muchas secundarias sin completar. (la misión final "OP.55" se puede reptir infinitamente)
 
 -Botón para resetear el arbol de habilidades 1 vez: Disponible (No es posible tener todas ni al 50% o almenos daría muchisimo trabajo)
 
