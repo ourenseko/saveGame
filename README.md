@@ -32,11 +32,11 @@ Estadisticas:
 
 -Coches premium comprados (faltan por desbloquear, dinero disponible de 1 millon de Edis) 
 
--Hackeos rapidos casi en nivel maximo 
+-Hackeos rapidos casi en nivel maximo y armas nivel maximo (se pueden mejorar más o encontrar mejores)
 
--Armas nivel maximo y mejoradas (se pueden mejorar más o encontrar mejores)
+-Genero (y voz) del personaje: Masculino (no deja cambiarlo por el momento)
 
--Horas jugadas 110h, genero (y voz) del personaje: Masculino (no deja cambiarlo por el momento)
+-Horas jugadas 110h. 
 
 
 
