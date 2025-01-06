@@ -3,7 +3,7 @@
 
 GTA_San_Andreas
 -----------------
-![image](https://github.com/user-attachments/assets/14844aef-b3c0-4d1e-8cc0-c3a719fd15a8)
+![VerdantMeadowsSA](https://github.com/user-attachments/assets/3b8da7cd-7c81-4c72-bf3a-afab0fb8f9b9)
 
 
 Sustitulle en el Slot 8 si existe en la ruta de juego con el archivo "GTASAsf8.b"
