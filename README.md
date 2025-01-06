@@ -12,7 +12,7 @@ Ruta: "gta_sa/data/"
 
 Estadisticas:
 
--Modo historia completado sin trucos
+-Modo historia completado sin trucos ni mods
 
 
 
