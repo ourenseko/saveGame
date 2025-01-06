@@ -3,9 +3,9 @@
 
 GTA_San_Andreas
 -----------------
-Sustitulle en el Slot 8 si existe en la ruta de juego
+Sustitulle en el Slot 8 si existe en la ruta de juego con el archivo "GTASAsf8.b"
 
-Ruta: 
+Ruta: "gta_sa/data/"
 
 Estadisticas:
 
@@ -20,7 +20,7 @@ CyberPunk-2077
 ![screenshot](https://github.com/user-attachments/assets/5c17d445-c947-4c0b-aab0-7095fa60564c)
 
 
-Sustitulle en el Slot 3 si existe en la ruta de juego
+Sustitulle en el Slot 3 si existe en la ruta de juego con la carpeta "ManualSave-3"
 
 Ruta: "%userprofile%\Saved Games\CD Projekt Red\Cyberpunk 2077"
 
