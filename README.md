@@ -23,7 +23,7 @@ Estadisticas:
 
 -Armas nivel maximo y mejoradas (se pueden mejorar más o encontrar mejores)
 
--Horas jugadas 105h, genero (y voz) del personaje: Masculino (no deja cambiarlo por el momento)
+-Horas jugadas 110h, genero (y voz) del personaje: Masculino (no deja cambiarlo por el momento)
 
 
 
